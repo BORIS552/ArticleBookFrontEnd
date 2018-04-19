@@ -1,2 +1,2 @@
 # ArticleBookFrontEnd
-<iframe src='https://gfycat.com/ifr/ImmaterialPastelGnu' frameborder='0' scrolling='no' allowfullscreen width='640' height='1305'></iframe>
+![articlebook_screenrec](https://user-images.githubusercontent.com/8451409/38995317-404fa32a-4406-11e8-8141-ba92f1a630c7.gif)
